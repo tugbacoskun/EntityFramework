@@ -1,0 +1,17 @@
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\bin\Debug\net7.0\BusinessLayer.deps.json
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\bin\Debug\net7.0\BusinessLayer.dll
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\BusinessLayer.dll
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\refint\BusinessLayer.dll
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\BusinessLayer.pdb
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\ref\BusinessLayer.dll
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\bin\Debug\net7.0\DomainLayer.dll
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\bin\Debug\net7.0\Persistence.EfCore.dll
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\bin\Debug\net7.0\Persistence.EfCore.pdb
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\bin\Debug\net7.0\DomainLayer.pdb
+C:\Users\Tugba\Desktop\EntityFramework\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.CopyComplete

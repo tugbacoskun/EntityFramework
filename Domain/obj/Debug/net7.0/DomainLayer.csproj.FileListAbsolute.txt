@@ -1,0 +1,12 @@
+C:\Users\Tugba\Desktop\EntityFramework\Domain\bin\Debug\net7.0\DomainLayer.deps.json
+C:\Users\Tugba\Desktop\EntityFramework\Domain\bin\Debug\net7.0\DomainLayer.dll
+C:\Users\Tugba\Desktop\EntityFramework\Domain\bin\Debug\net7.0\DomainLayer.pdb
+C:\Users\Tugba\Desktop\EntityFramework\Domain\obj\Debug\net7.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\Tugba\Desktop\EntityFramework\Domain\obj\Debug\net7.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\EntityFramework\Domain\obj\Debug\net7.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\EntityFramework\Domain\obj\Debug\net7.0\DomainLayer.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\EntityFramework\Domain\obj\Debug\net7.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\EntityFramework\Domain\obj\Debug\net7.0\DomainLayer.dll
+C:\Users\Tugba\Desktop\EntityFramework\Domain\obj\Debug\net7.0\refint\DomainLayer.dll
+C:\Users\Tugba\Desktop\EntityFramework\Domain\obj\Debug\net7.0\DomainLayer.pdb
+C:\Users\Tugba\Desktop\EntityFramework\Domain\obj\Debug\net7.0\ref\DomainLayer.dll

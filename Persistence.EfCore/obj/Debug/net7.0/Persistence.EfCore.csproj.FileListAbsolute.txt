@@ -1,0 +1,17 @@
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\bin\Debug\net7.0\Persistence.EfCore.deps.json
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\bin\Debug\net7.0\Persistence.EfCore.runtimeconfig.json
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\bin\Debug\net7.0\Persistence.EfCore.dll
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\bin\Debug\net7.0\Persistence.EfCore.pdb
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\bin\Debug\net7.0\DomainLayer.dll
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\bin\Debug\net7.0\DomainLayer.pdb
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\Persistence.EfCore.csproj.AssemblyReference.cache
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\Persistence.EfCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\Persistence.EfCore.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\Persistence.EfCore.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\Persistence.EfCore.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\Persistence.EfCore.csproj.CopyComplete
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\Persistence.EfCore.dll
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\refint\Persistence.EfCore.dll
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\Persistence.EfCore.pdb
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\Persistence.EfCore.genruntimeconfig.cache
+C:\Users\Tugba\Desktop\EntityFramework\Persistence.EfCore\obj\Debug\net7.0\ref\Persistence.EfCore.dll
